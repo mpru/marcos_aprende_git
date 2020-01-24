@@ -6,4 +6,3 @@ Agrego una lista para seguir modificando este archivo:
 - Primero
 - Segundo
 - Tercero
-- Cuarto
